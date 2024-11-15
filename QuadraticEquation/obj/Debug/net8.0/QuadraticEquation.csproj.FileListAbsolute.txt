@@ -1,0 +1,14 @@
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.exe
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.deps.json
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.runtimeconfig.json
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\bin\Debug\net8.0\QuadraticEquation.pdb
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.GeneratedMSBuildEditorConfig.editorconfig
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.AssemblyInfoInputs.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.AssemblyInfo.cs
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.csproj.CoreCompileInputs.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\refint\QuadraticEquation.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.pdb
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\QuadraticEquation.genruntimeconfig.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\QuadraticEquation\obj\Debug\net8.0\ref\QuadraticEquation.dll

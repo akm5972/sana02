@@ -1,0 +1,14 @@
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\bin\Debug\net8.0\While.exe
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\bin\Debug\net8.0\While.deps.json
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\bin\Debug\net8.0\While.runtimeconfig.json
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\bin\Debug\net8.0\While.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\bin\Debug\net8.0\While.pdb
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.GeneratedMSBuildEditorConfig.editorconfig
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.AssemblyInfoInputs.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.AssemblyInfo.cs
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.csproj.CoreCompileInputs.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\refint\While.dll
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.pdb
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\While.genruntimeconfig.cache
+F:\KIRIL\ПОЛІТЕХ ДЗ\SANA\sana02\sana02\While\obj\Debug\net8.0\ref\While.dll
